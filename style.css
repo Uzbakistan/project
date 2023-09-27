@@ -1,0 +1,42 @@
+body {
+    background: url(photo_2023-09-26_15-45-21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 340px;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+h2 {
+    margin-left: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    margin-left: 150px;
+    font-size: 65px;
+    margin-top: -10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    margin-left: 150px;
+    margin-top: -13px;
+}
+
+#code {
+    margin-top: -5px;
+}
+
+.button {
+    margin-left: 150px;
+    background-color: pink;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 20px;
+    border: none;
+}
